@@ -1,0 +1,843 @@
+Start testing: Oct 05 01:44 Central Daylight Time
+----------------------------------------------------------
+1/42 Testing: AvellanedaStoikovMM: at the horizon only the liquidity term is left
+1/42 Test: AvellanedaStoikovMM: at the horizon only the liquidity term is left
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: at the horizon only the liquidity term is left"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: at the horizon only the liquidity term is left" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: at the horizon only the liquidity term is left"
+Randomness seeded to: 3529936126
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: at the horizon only the liquidity term is left" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: at the horizon only the liquidity term is left" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/42 Testing: AvellanedaStoikovMM: higher gamma gives a wider spread
+2/42 Test: AvellanedaStoikovMM: higher gamma gives a wider spread
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: higher gamma gives a wider spread"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: higher gamma gives a wider spread" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: higher gamma gives a wider spread"
+Randomness seeded to: 3749337433
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: higher gamma gives a wider spread" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: higher gamma gives a wider spread" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/42 Testing: AvellanedaStoikovMM: quotes straddle the reservation price
+3/42 Test: AvellanedaStoikovMM: quotes straddle the reservation price
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: quotes straddle the reservation price"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: quotes straddle the reservation price" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: quotes straddle the reservation price"
+Randomness seeded to: 3713309442
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: quotes straddle the reservation price" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: quotes straddle the reservation price" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/42 Testing: AvellanedaStoikovMM: rejects non-positive gamma or k
+4/42 Test: AvellanedaStoikovMM: rejects non-positive gamma or k
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: rejects non-positive gamma or k"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: rejects non-positive gamma or k" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: rejects non-positive gamma or k"
+Randomness seeded to: 270312960
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: rejects non-positive gamma or k" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: rejects non-positive gamma or k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/42 Testing: AvellanedaStoikovMM: reservation price moves against inventory
+5/42 Test: AvellanedaStoikovMM: reservation price moves against inventory
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: reservation price moves against inventory"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: reservation price moves against inventory" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: reservation price moves against inventory"
+Randomness seeded to: 1836543807
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: reservation price moves against inventory" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: reservation price moves against inventory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/42 Testing: AvellanedaStoikovMM: spread matches the closed form
+6/42 Test: AvellanedaStoikovMM: spread matches the closed form
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: spread matches the closed form"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: spread matches the closed form" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: spread matches the closed form"
+Randomness seeded to: 2104859811
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: spread matches the closed form" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: spread matches the closed form" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/42 Testing: AvellanedaStoikovMM: with zero inventory the reservation price equals mid
+7/42 Test: AvellanedaStoikovMM: with zero inventory the reservation price equals mid
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "AvellanedaStoikovMM: with zero inventory the reservation price equals mid"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"AvellanedaStoikovMM: with zero inventory the reservation price equals mid" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "AvellanedaStoikovMM: with zero inventory the reservation price equals mid"
+Randomness seeded to: 775666375
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AvellanedaStoikovMM: with zero inventory the reservation price equals mid" end time: Oct 05 01:44 Central Daylight Time
+"AvellanedaStoikovMM: with zero inventory the reservation price equals mid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/42 Testing: Every strategy quotes a bid below its ask through the interface
+8/42 Test: Every strategy quotes a bid below its ask through the interface
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Every strategy quotes a bid below its ask through the interface"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Every strategy quotes a bid below its ask through the interface" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Every strategy quotes a bid below its ask through the interface"
+Randomness seeded to: 1127945314
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Every strategy quotes a bid below its ask through the interface" end time: Oct 05 01:44 Central Daylight Time
+"Every strategy quotes a bid below its ask through the interface" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/42 Testing: FillModel: an infinitely distant quote is never filled
+9/42 Test: FillModel: an infinitely distant quote is never filled
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: an infinitely distant quote is never filled"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: an infinitely distant quote is never filled" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: an infinitely distant quote is never filled"
+Randomness seeded to: 878202247
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: an infinitely distant quote is never filled" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: an infinitely distant quote is never filled" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/42 Testing: FillModel: at distance 0 the intensity equals A
+10/42 Test: FillModel: at distance 0 the intensity equals A
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: at distance 0 the intensity equals A"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: at distance 0 the intensity equals A" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: at distance 0 the intensity equals A"
+Randomness seeded to: 132600940
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: at distance 0 the intensity equals A" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: at distance 0 the intensity equals A" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/42 Testing: FillModel: fill probability falls with distance and rises with dt
+11/42 Test: FillModel: fill probability falls with distance and rises with dt
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: fill probability falls with distance and rises with dt"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: fill probability falls with distance and rises with dt" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: fill probability falls with distance and rises with dt"
+Randomness seeded to: 3764724608
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: fill probability falls with distance and rises with dt" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: fill probability falls with distance and rises with dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/42 Testing: FillModel: for small lambda * dt the probability approaches lambda * dt
+12/42 Test: FillModel: for small lambda * dt the probability approaches lambda * dt
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: for small lambda * dt the probability approaches lambda * dt"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: for small lambda * dt the probability approaches lambda * dt" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: for small lambda * dt the probability approaches lambda * dt"
+Randomness seeded to: 2273284447
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: for small lambda * dt the probability approaches lambda * dt" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: for small lambda * dt the probability approaches lambda * dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/42 Testing: FillModel: intensity is monotonically decreasing in distance
+13/42 Test: FillModel: intensity is monotonically decreasing in distance
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: intensity is monotonically decreasing in distance"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: intensity is monotonically decreasing in distance" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: intensity is monotonically decreasing in distance"
+Randomness seeded to: 97306449
+===============================================================================
+All tests passed (153 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: intensity is monotonically decreasing in distance" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: intensity is monotonically decreasing in distance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/42 Testing: FillModel: rejects invalid parameters
+14/42 Test: FillModel: rejects invalid parameters
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: rejects invalid parameters"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: rejects invalid parameters" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: rejects invalid parameters"
+Randomness seeded to: 370417034
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: rejects invalid parameters" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: rejects invalid parameters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/42 Testing: FillModel: step fill probability is 1 - exp(-lambda * dt)
+15/42 Test: FillModel: step fill probability is 1 - exp(-lambda * dt)
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: step fill probability is 1 - exp(-lambda * dt)"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: step fill probability is 1 - exp(-lambda * dt)" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: step fill probability is 1 - exp(-lambda * dt)"
+Randomness seeded to: 3468856697
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: step fill probability is 1 - exp(-lambda * dt)" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: step fill probability is 1 - exp(-lambda * dt)" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/42 Testing: FillModel: step fill probability stays valid when lambda is large
+16/42 Test: FillModel: step fill probability stays valid when lambda is large
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "FillModel: step fill probability stays valid when lambda is large"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"FillModel: step fill probability stays valid when lambda is large" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "FillModel: step fill probability stays valid when lambda is large"
+Randomness seeded to: 2165246995
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FillModel: step fill probability stays valid when lambda is large" end time: Oct 05 01:44 Central Daylight Time
+"FillModel: step fill probability stays valid when lambda is large" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/42 Testing: InventorySkewMM: long inventory puts both quotes below the symmetric ones
+17/42 Test: InventorySkewMM: long inventory puts both quotes below the symmetric ones
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "InventorySkewMM: long inventory puts both quotes below the symmetric ones"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"InventorySkewMM: long inventory puts both quotes below the symmetric ones" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "InventorySkewMM: long inventory puts both quotes below the symmetric ones"
+Randomness seeded to: 1986054502
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InventorySkewMM: long inventory puts both quotes below the symmetric ones" end time: Oct 05 01:44 Central Daylight Time
+"InventorySkewMM: long inventory puts both quotes below the symmetric ones" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/42 Testing: InventorySkewMM: matches SymmetricMM when flat or when skew is zero
+18/42 Test: InventorySkewMM: matches SymmetricMM when flat or when skew is zero
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "InventorySkewMM: matches SymmetricMM when flat or when skew is zero"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"InventorySkewMM: matches SymmetricMM when flat or when skew is zero" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "InventorySkewMM: matches SymmetricMM when flat or when skew is zero"
+Randomness seeded to: 1282830288
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InventorySkewMM: matches SymmetricMM when flat or when skew is zero" end time: Oct 05 01:44 Central Daylight Time
+"InventorySkewMM: matches SymmetricMM when flat or when skew is zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/42 Testing: InventorySkewMM: short inventory puts both quotes above the symmetric ones
+19/42 Test: InventorySkewMM: short inventory puts both quotes above the symmetric ones
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "InventorySkewMM: short inventory puts both quotes above the symmetric ones"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"InventorySkewMM: short inventory puts both quotes above the symmetric ones" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "InventorySkewMM: short inventory puts both quotes above the symmetric ones"
+Randomness seeded to: 3998372719
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InventorySkewMM: short inventory puts both quotes above the symmetric ones" end time: Oct 05 01:44 Central Daylight Time
+"InventorySkewMM: short inventory puts both quotes above the symmetric ones" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/42 Testing: InventorySkewMM: skew moves the quotes but not the spread width
+20/42 Test: InventorySkewMM: skew moves the quotes but not the spread width
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "InventorySkewMM: skew moves the quotes but not the spread width"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"InventorySkewMM: skew moves the quotes but not the spread width" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "InventorySkewMM: skew moves the quotes but not the spread width"
+Randomness seeded to: 1363151290
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InventorySkewMM: skew moves the quotes but not the spread width" end time: Oct 05 01:44 Central Daylight Time
+"InventorySkewMM: skew moves the quotes but not the spread width" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/42 Testing: PriceProcess: mid starts at the initial price
+21/42 Test: PriceProcess: mid starts at the initial price
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "PriceProcess: mid starts at the initial price"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"PriceProcess: mid starts at the initial price" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PriceProcess: mid starts at the initial price"
+Randomness seeded to: 2300722960
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PriceProcess: mid starts at the initial price" end time: Oct 05 01:44 Central Daylight Time
+"PriceProcess: mid starts at the initial price" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/42 Testing: PriceProcess: mid stays on the tick grid
+22/42 Test: PriceProcess: mid stays on the tick grid
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "PriceProcess: mid stays on the tick grid"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"PriceProcess: mid stays on the tick grid" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PriceProcess: mid stays on the tick grid"
+Randomness seeded to: 1555605085
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PriceProcess: mid stays on the tick grid" end time: Oct 05 01:44 Central Daylight Time
+"PriceProcess: mid stays on the tick grid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/42 Testing: PriceProcess: realised volatility matches the configured one
+23/42 Test: PriceProcess: realised volatility matches the configured one
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "PriceProcess: realised volatility matches the configured one"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"PriceProcess: realised volatility matches the configured one" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PriceProcess: realised volatility matches the configured one"
+Randomness seeded to: 3674023982
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PriceProcess: realised volatility matches the configured one" end time: Oct 05 01:44 Central Daylight Time
+"PriceProcess: realised volatility matches the configured one" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/42 Testing: PriceProcess: rejects an invalid configuration
+24/42 Test: PriceProcess: rejects an invalid configuration
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "PriceProcess: rejects an invalid configuration"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"PriceProcess: rejects an invalid configuration" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PriceProcess: rejects an invalid configuration"
+Randomness seeded to: 557608384
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PriceProcess: rejects an invalid configuration" end time: Oct 05 01:44 Central Daylight Time
+"PriceProcess: rejects an invalid configuration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/42 Testing: PriceProcess: same seed gives identical paths
+25/42 Test: PriceProcess: same seed gives identical paths
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "PriceProcess: same seed gives identical paths"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"PriceProcess: same seed gives identical paths" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PriceProcess: same seed gives identical paths"
+Randomness seeded to: 3129435940
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PriceProcess: same seed gives identical paths" end time: Oct 05 01:44 Central Daylight Time
+"PriceProcess: same seed gives identical paths" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/42 Testing: PriceProcess: zero volatility gives a flat path
+26/42 Test: PriceProcess: zero volatility gives a flat path
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "PriceProcess: zero volatility gives a flat path"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"PriceProcess: zero volatility gives a flat path" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "PriceProcess: zero volatility gives a flat path"
+Randomness seeded to: 1563926841
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PriceProcess: zero volatility gives a flat path" end time: Oct 05 01:44 Central Daylight Time
+"PriceProcess: zero volatility gives a flat path" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/42 Testing: Simulator: a maker with infinite spread never fills
+27/42 Test: Simulator: a maker with infinite spread never fills
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: a maker with infinite spread never fills"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: a maker with infinite spread never fills" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: a maker with infinite spread never fills"
+Randomness seeded to: 447941474
+===============================================================================
+All tests passed (15001 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: a maker with infinite spread never fills" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: a maker with infinite spread never fills" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/42 Testing: Simulator: a quote far through the mid fills exactly once per step
+28/42 Test: Simulator: a quote far through the mid fills exactly once per step
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: a quote far through the mid fills exactly once per step"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: a quote far through the mid fills exactly once per step" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: a quote far through the mid fills exactly once per step"
+Randomness seeded to: 1130947689
+===============================================================================
+All tests passed (20000 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: a quote far through the mid fills exactly once per step" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: a quote far through the mid fills exactly once per step" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/42 Testing: Simulator: cash + inventory * mid equals reported P&L at every step
+29/42 Test: Simulator: cash + inventory * mid equals reported P&L at every step
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: cash + inventory * mid equals reported P&L at every step"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: cash + inventory * mid equals reported P&L at every step" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: cash + inventory * mid equals reported P&L at every step"
+Randomness seeded to: 2089454529
+===============================================================================
+All tests passed (45003 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: cash + inventory * mid equals reported P&L at every step" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: cash + inventory * mid equals reported P&L at every step" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/42 Testing: Simulator: logs one record per millisecond
+30/42 Test: Simulator: logs one record per millisecond
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: logs one record per millisecond"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: logs one record per millisecond" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: logs one record per millisecond"
+Randomness seeded to: 4274479397
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: logs one record per millisecond" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: logs one record per millisecond" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/42 Testing: Simulator: same seed reproduces the run, another seed does not
+31/42 Test: Simulator: same seed reproduces the run, another seed does not
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: same seed reproduces the run\, another seed does not"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: same seed reproduces the run, another seed does not" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: same seed reproduces the run\, another seed does not"
+Randomness seeded to: 2785739447
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: same seed reproduces the run, another seed does not" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: same seed reproduces the run, another seed does not" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/42 Testing: Simulator: step fill frequency is 1 - exp(-lambda * dt), not lambda * dt
+32/42 Test: Simulator: step fill frequency is 1 - exp(-lambda * dt), not lambda * dt
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: step fill frequency is 1 - exp(-lambda * dt)\, not lambda * dt"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: step fill frequency is 1 - exp(-lambda * dt), not lambda * dt" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: step fill frequency is 1 - exp(-lambda * dt)\, not lambda * dt"
+Randomness seeded to: 339924907
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: step fill frequency is 1 - exp(-lambda * dt), not lambda * dt" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: step fill frequency is 1 - exp(-lambda * dt), not lambda * dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/42 Testing: Simulator: strategies on one simulator share the price path and order flow
+33/42 Test: Simulator: strategies on one simulator share the price path and order flow
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Simulator: strategies on one simulator share the price path and order flow"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Simulator: strategies on one simulator share the price path and order flow" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Simulator: strategies on one simulator share the price path and order flow"
+Randomness seeded to: 1037283241
+===============================================================================
+All tests passed (10002 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Simulator: strategies on one simulator share the price path and order flow" end time: Oct 05 01:44 Central Daylight Time
+"Simulator: strategies on one simulator share the price path and order flow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/42 Testing: Stats: aggregate averages runs and reports the spread of final P&L
+34/42 Test: Stats: aggregate averages runs and reports the spread of final P&L
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Stats: aggregate averages runs and reports the spread of final P&L"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Stats: aggregate averages runs and reports the spread of final P&L" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Stats: aggregate averages runs and reports the spread of final P&L"
+Randomness seeded to: 13619754
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Stats: aggregate averages runs and reports the spread of final P&L" end time: Oct 05 01:44 Central Daylight Time
+"Stats: aggregate averages runs and reports the spread of final P&L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/42 Testing: Stats: aggregate handles one run and no runs
+35/42 Test: Stats: aggregate handles one run and no runs
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Stats: aggregate handles one run and no runs"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Stats: aggregate handles one run and no runs" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Stats: aggregate handles one run and no runs"
+Randomness seeded to: 2658763283
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Stats: aggregate handles one run and no runs" end time: Oct 05 01:44 Central Daylight Time
+"Stats: aggregate handles one run and no runs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/42 Testing: Stats: an empty or flat run gives zeros, not NaN
+36/42 Test: Stats: an empty or flat run gives zeros, not NaN
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Stats: an empty or flat run gives zeros\, not NaN"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Stats: an empty or flat run gives zeros, not NaN" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Stats: an empty or flat run gives zeros\, not NaN"
+Randomness seeded to: 3920831491
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Stats: an empty or flat run gives zeros, not NaN" end time: Oct 05 01:44 Central Daylight Time
+"Stats: an empty or flat run gives zeros, not NaN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/42 Testing: Stats: drawdown is measured from the starting P&L of zero
+37/42 Test: Stats: drawdown is measured from the starting P&L of zero
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Stats: drawdown is measured from the starting P&L of zero"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Stats: drawdown is measured from the starting P&L of zero" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Stats: drawdown is measured from the starting P&L of zero"
+Randomness seeded to: 443289549
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Stats: drawdown is measured from the starting P&L of zero" end time: Oct 05 01:44 Central Daylight Time
+"Stats: drawdown is measured from the starting P&L of zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/42 Testing: Stats: summarize agrees with a simulated log
+38/42 Test: Stats: summarize agrees with a simulated log
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Stats: summarize agrees with a simulated log"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Stats: summarize agrees with a simulated log" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Stats: summarize agrees with a simulated log"
+Randomness seeded to: 2121315780
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Stats: summarize agrees with a simulated log" end time: Oct 05 01:44 Central Daylight Time
+"Stats: summarize agrees with a simulated log" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/42 Testing: Stats: summarize matches a hand-computed run
+39/42 Test: Stats: summarize matches a hand-computed run
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Stats: summarize matches a hand-computed run"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Stats: summarize matches a hand-computed run" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Stats: summarize matches a hand-computed run"
+Randomness seeded to: 1781369228
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Stats: summarize matches a hand-computed run" end time: Oct 05 01:44 Central Daylight Time
+"Stats: summarize matches a hand-computed run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/42 Testing: Strategies reject invalid parameters
+40/42 Test: Strategies reject invalid parameters
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "Strategies reject invalid parameters"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"Strategies reject invalid parameters" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "Strategies reject invalid parameters"
+Randomness seeded to: 1129621623
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Strategies reject invalid parameters" end time: Oct 05 01:44 Central Daylight Time
+"Strategies reject invalid parameters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/42 Testing: SymmetricMM: quotes are symmetric around mid
+41/42 Test: SymmetricMM: quotes are symmetric around mid
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "SymmetricMM: quotes are symmetric around mid"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"SymmetricMM: quotes are symmetric around mid" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SymmetricMM: quotes are symmetric around mid"
+Randomness seeded to: 1985895405
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SymmetricMM: quotes are symmetric around mid" end time: Oct 05 01:44 Central Daylight Time
+"SymmetricMM: quotes are symmetric around mid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/42 Testing: SymmetricMM: quotes ignore inventory and time
+42/42 Test: SymmetricMM: quotes ignore inventory and time
+Command: "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests.exe" "SymmetricMM: quotes ignore inventory and time"
+Directory: C:/Users/yj1so/Desktop/mm-sim/build
+"SymmetricMM: quotes ignore inventory and time" start time: Oct 05 01:44 Central Daylight Time
+Output:
+----------------------------------------------------------
+Filters: "SymmetricMM: quotes ignore inventory and time"
+Randomness seeded to: 400437022
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SymmetricMM: quotes ignore inventory and time" end time: Oct 05 01:44 Central Daylight Time
+"SymmetricMM: quotes ignore inventory and time" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 05 01:44 Central Daylight Time

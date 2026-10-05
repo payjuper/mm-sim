@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests-b12d07c_tests.cmake")
+  include("C:/Users/yj1so/Desktop/mm-sim/build/mmsim_tests-b12d07c_tests.cmake")
+else()
+  add_test(mmsim_tests_NOT_BUILT-b12d07c mmsim_tests_NOT_BUILT-b12d07c)
+endif()
