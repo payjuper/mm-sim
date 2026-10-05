@@ -1,0 +1,15 @@
+# Build output
+build/
+
+# Generated results; the plots in results/ are kept because the README embeds them
+*.csv
+*.png
+!results/*.png
+
+# Editor files
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~

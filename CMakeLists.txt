@@ -27,16 +27,24 @@ endif()
 
 add_library(mmsim STATIC
   src/avellaneda_stoikov_mm.cpp
+  src/csv.cpp
   src/fill_model.cpp
+  src/flags.cpp
   src/inventory_skew_mm.cpp
   src/market_maker.cpp
   src/price_process.cpp
+  src/run_config.cpp
   src/simulator.cpp
   src/stats.cpp
   src/symmetric_mm.cpp
 )
 target_include_directories(mmsim PUBLIC include)
 target_link_libraries(mmsim PRIVATE mmsim_warnings)
+
+foreach(app run_sim sweep)
+  add_executable(${app} apps/${app}.cpp)
+  target_link_libraries(${app} PRIVATE mmsim mmsim_warnings)
+endforeach()
 
 if(MMSIM_BUILD_TESTS)
   include(FetchContent)
@@ -53,8 +61,10 @@ if(MMSIM_BUILD_TESTS)
   add_executable(mmsim_tests
     tests/test_avellaneda_stoikov_mm.cpp
     tests/test_fill_model.cpp
+    tests/test_flags.cpp
     tests/test_market_maker.cpp
     tests/test_price_process.cpp
+    tests/test_run_config.cpp
     tests/test_simulator.cpp
     tests/test_stats.cpp
   )
